@@ -20,8 +20,4 @@ Example
 
 Illustrated in Figure 1, the example underscores the classifier's functionality with three training vectors for each of two classes and a corresponding test vector. The ensuing analysis for various k values showcases the nuanced decision-making process and its impact on detected classes.
 
-Testing and Evaluation
-
-Validation of the classifier unfolds through meticulous testing on the iris dataset, specifically scrutinizing scenarios with k=1 and k=2. Comprehensive insights, including test vectors and results, confusion matrices, and overall & conditional classification error probabilities, are meticulously documented.
-
 This project was undertaken as part of the ECE759 Pattern Recognition course, instructed by Professor Greg Bottemly.
