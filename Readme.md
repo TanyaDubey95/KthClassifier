@@ -16,8 +16,4 @@ Breaking Ties
 
 To address tie scenarios, the "smallest" rule is strategically implemented. This rule allocates the tie to the class boasting the smallest index, a pragmatic solution that ensures clarity in classification outcomes.
 
-Example
-
-Illustrated in Figure 1, the example underscores the classifier's functionality with three training vectors for each of two classes and a corresponding test vector. The ensuing analysis for various k values showcases the nuanced decision-making process and its impact on detected classes.
-
 This project was undertaken as part of the ECE759 Pattern Recognition course, instructed by Professor Greg Bottemly.
